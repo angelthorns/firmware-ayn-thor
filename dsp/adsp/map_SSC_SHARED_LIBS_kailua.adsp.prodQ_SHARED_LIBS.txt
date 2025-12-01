@@ -1,0 +1,5 @@
+../../build/ms/dynamic_modules/kailua.adsp.prod/sns_tppe.so
+../../build/ms/dynamic_modules/kailua.adsp.prod/libsns_device_mode_skel.so
+../../build/ms/dynamic_modules/kailua.adsp.prod/libsns_direct_channel_skel.so
+../../build/ms/dynamic_modules/kailua.adsp.prod/libsns_dynamic_loader_skel.so
+../../build/ms/dynamic_modules/kailua.adsp.prod/libsns_remote_proc_state_skel.so
