@@ -1,7 +1,0 @@
-../../build/ms/dynamic_modules/kailua.adsp.prod/libsysmon_skel.so
-../../build/ms/dynamic_modules/kailua.adsp.prod/libsysmondomain_skel.so
-../../build/ms/dynamic_modules/kailua.adsp.prod/libstabilitydomain_skel.so
-../../build/ms/dynamic_modules/kailua.adsp.prod/libsysmonquery_skel.so
-../../build/ms/dynamic_modules/kailua.adsp.prod/fastrpc_shell_0
-../../build/ms/dynamic_modules/kailua.adsp.prod/libc++.so.1
-../../build/ms/dynamic_modules/kailua.adsp.prod/libc++abi.so.1
