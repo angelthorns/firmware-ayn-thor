@@ -1,0 +1,6 @@
+/lib/firmware/qcom/
+/lib/firmware/ath12k/
+/lib/firmware/regulatory.db
+/lib/firmware/regulatory.db.p7s
+/lib/firmware/qca
+/lib/firmware/renesas_usb_fw.mem
